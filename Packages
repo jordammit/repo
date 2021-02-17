@@ -9,7 +9,7 @@ Section: Fonts
 Depends: mobilesubstrate, com.ps.emojiattributes, com.ps.emojilibrary, com.ps.emojifontmanager
 Filename: debs/com.notdan.emoji142gun93retex.deb
 Size: 138455180
-Depiction: http://notdan.github.io/emoji142gun93retex/index.html
+Depiction: http://jordammit.github.io/repo/emoji142gun93retex/index.html
 MD5sum: c1b5136276ded19464f048cdfeb79538
 SHA1: 89d139a04599655eb283cac6470b1bf43b668a04
 SHA256: 141513b253c48eaddb073ed9cb02c259d0ff4541fc707c48c63ab598febd270c
@@ -25,7 +25,7 @@ Section: Fonts
 Depends: mobilesubstrate, com.ps.emojiattributes, com.ps.emojilibrary, com.ps.emojifontmanager
 Filename: debs/com.notdan.emoji142gun93.deb
 Size: 138442228
-Depiction: http://notdan.github.io/emoji142gun93/index.html
+Depiction: http://jordammit.github.io/repo/emoji142gun93/index.html
 MD5sum: 8cc1e5deee87a61a0c6a348fbe1e8034
 SHA1: 481d806bec75d3d371292bc15a687871917dada9
 SHA256: c69a9b3fe248459631543e96f1d2b052dd519f40610ff4e6c035a9733adf74e5
